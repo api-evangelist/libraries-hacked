@@ -1,0 +1,53 @@
+{
+    "name": "libraries hacked",
+    "description": "promoting open library data and library hacks",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10154-libraries-hacked.jpg",
+    "tags": [
+        "data provider",
+        "have api",
+        "libraries"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/libraries-hacked\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "libraries hacked",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10154-libraries-hacked.jpg",
+            "humanURL": "https:\/\/www.librarieshacked.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/libraries-hacked-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.librarieshacked.org\/articles"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.librarieshacked.org\/feed"
+        },
+        {
+            "type": "Email",
+            "url": "info@librarieshacked.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/librarieshacked"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.librarieshacked.org\/"
+        }
+    ]
+}
